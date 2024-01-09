@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaide_clavier=self.webpackChunkaide_clavier||[]).push([[9661],{1892:(e,r,a)=>{a.r(r),a.d(r,{default:()=>n});a(7294);var s=a(512),c=a(1944),u=a(5281),i=a(8790),l=a(6040),d=a(5893);function n(e){return(0,d.jsx)(c.FG,{className:(0,s.Z)(u.k.wrapper.docsPages),children:(0,d.jsx)(l.Z,{children:(0,i.H)(e.route.routes)})})}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaide_clavier=self.webpackChunkaide_clavier||[]).push([[2858],{2943:e=>{e.exports=JSON.parse('{"permalink":"/aide-clavier/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
